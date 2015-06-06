@@ -1,6 +1,6 @@
 # Huffman
 
-Huffman is a tiny tool using the compression algorithm Huffman coding written in C. It can compress/decompress any file or text from standard input and save it in a file or just print it to standard output.
+Huffman is a tiny tool using the Huffman compression algorithm written in C. It can compress/decompress any file or text from standard input and save it in a file or just print it to standard output.
 
 ## How to Use
 
