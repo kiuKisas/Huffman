@@ -6,18 +6,18 @@ Huffman is a tiny tool using the Huffman compression algorithm written in C. It 
 
 By typing ./huffman -h, you will see this message
 
- Usage: ./huffman [options]...
+> Usage: ./huffman [options]...
 
- Compress a text with Huffman coding and save it.
+> Compress a text with Huffman coding and save it.
 
-By default, reads standard input and save compression in "./huff.bin"
+> By default, reads standard input and save compression in "./huff.bin"
 
- Options :
+> Options :
 
- -d		huffman in decompression mode
+> -d		huffman in decompression mode
 
---BIN=<path>	specify the path of the binary
+> --BIN=<path>	specify the path of the binary
 
---FILE=<path>	specify the path of the file
+> --FILE=<path>	specify the path of the file
 
--h		print this message
+> -h		print this message
